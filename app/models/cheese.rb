@@ -5,3 +5,4 @@ class Cheese < ApplicationRecord
   end
 
 end
+
